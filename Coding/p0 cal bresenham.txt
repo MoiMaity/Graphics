@@ -1,0 +1,40 @@
+pk= 2. delta y. xk - 2. delta x . yk + 2 delta y + delta x (2b -1)
+
+
+
+
+y0=mx0+b
+
+
+
+
+m= delta y/ delta x
+
+
+
+
+y0 = (delta y/ delta x) x0 +b
+
+
+
+
+b= y0- (delta y/ delta x) x0
+
+
+
+
+2b = 2.y0 - 2. (delta y/ delta x) x0
+
+
+
+
+Delta x * 2b = 2. Delta  x .y0 - 2. Delta y . x0
+
+
+
+
+p0= 2. delta y. X0 - 2. delta x . Y0 + 2 delta y + delta x (2b -1)
+
+= 2. delta y. X0 - 2. delta x . Y0 + 2 delta y - delta x + 2. Delta  x .y0 - 2. Delta y . x0
+
+= 2 delta y - delta x

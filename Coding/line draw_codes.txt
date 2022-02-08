@@ -1,0 +1,4 @@
+mean_line = ax.plot(x,y_mean, label='Mean', linestyle='--')
+y_avg
+y_mean = [np.mean(y)]*len(x)
+plt.plot(np.unique(x), np.poly1d(np.polyfit(x, y, 1))(np.unique(x)))
